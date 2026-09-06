@@ -172,8 +172,8 @@ node tests/semantic.test.js
 |---|---|
 | Shlok *(Team Lead)* | Registry Engine & System Glue |
 | Himanshu | Semantic Audit & Grounding |
-| Sameer | Secret Redactor Engine |
-| Swastik | Dashboard, Scorecard & README |
+| Sameer | Secret Redactor Engine & README |
+| Swastik | Dashboard & Scorecard  |
 
 ## License
 
